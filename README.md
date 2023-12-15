@@ -7,3 +7,7 @@ Welcome! This repository contains source code and data for "The oleomargarine co
 
 ### Graph of American Butter and Margarine Consumption per Capita, 1910-2010
 ![butter_v_margarine](https://github.com/WilsonMKing/margarine/assets/106451637/9fda3201-d99f-42e4-ab55-32a703beea17)
+
+### Sources
+* New York Times Machine: [URL](https://timesmachine.nytimes.com/browser)
+* USDA Food Availability (Per Capita) Data System: [URL](https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/)
