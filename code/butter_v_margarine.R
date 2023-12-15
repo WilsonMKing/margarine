@@ -48,6 +48,8 @@ ggplot(fats, aes(x = year, y = consumption_per_capita, fill = fat)) +
   theme(legend.position = "top",
         legend.title = element_blank(),
         text = element_text(family = "Times New Roman", size = 12))
+
+### Save
 ggsave(paste0(exhibits, "butter_v_margarine.jpeg"), units = "cm", 
        width = 18, height = 12)
 
