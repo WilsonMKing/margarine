@@ -1,1 +1,1 @@
-Welcome! This repository replicates all graphs from "The oleomargarine controversy and the fight for the future of butter."
+Welcome! This repository replicates all graphs from "The oleomargarine controversy and the fight for the future of butter." To replicate all tables and graphs used in the article, run "~/code/master_analysis.R". That's it!
