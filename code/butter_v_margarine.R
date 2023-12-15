@@ -2,15 +2,6 @@
 ################# Graph of US Butter and Margarine Consumption #################
 ################################################################################
 
-### Set File Paths
-root <- paste0("/Users/", Sys.getenv("USER"), "/Dropbox/github_private/margarine/")
-data <- paste0(root, "data/")
-exhibits <- paste0(root, "exhibits/")
-
-### Load Packages
-packages <- c("dplyr", "ggplot2", "readxl")
-lapply(packages, require, character.only = TRUE)
-
 ### Load Butter Data
 butter <- readxl::read_xls(paste0(data, "fats.xls"), sheet = "Butter")
 colnames(butter) <- butter[1,]
