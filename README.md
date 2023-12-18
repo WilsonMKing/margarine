@@ -1,6 +1,6 @@
 # The Oleomargarine Controversy and the Greasy Hill of Progress.
 
-Welcome! This repository contains source code and data for "The oleomargarine controversy and the greasy hill of progress." All figures can be reproduced by running "~/code/master_analysis.R". Final versions of the figures are reprinted below. Enjoy!
+This repository contains source code and data for "The oleomargarine controversy and the greasy hill of progress." All figures can be reproduced by running "~/code/master_analysis.R". Final versions of the figures are reprinted below. Enjoy!
 
 ### Sources
 - New York Times Machine: [URL](https://timesmachine.nytimes.com/browser)
