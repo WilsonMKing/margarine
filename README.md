@@ -1,6 +1,6 @@
-# The Oleomargarine Controversy and the Fight for the Future of Butter
+# The Oleomargarine Controversy and the Greasy Hill of Progress.
 
-Welcome! This repository contains source code and data for "The oleomargarine controversy and the fight for the future of butter." All figures can be reproduced by running "~/code/master_analysis.R". Final versions of the figures are reprinted below. Enjoy!
+Welcome! This repository contains source code and data for "The oleomargarine controversy and the greasy hill of progress." All figures can be reproduced by running "~/code/master_analysis.R". Final versions of the figures are reprinted below. Enjoy!
 
 ### Sources
 - New York Times Machine: [URL](https://timesmachine.nytimes.com/browser)
